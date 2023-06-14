@@ -31,6 +31,10 @@
       "name": "eject",
       "command": "yarn eject",
       "runAtStart": false
+    },
+    "node_modules/@babel": {
+      "name": "node_modules/@babel",
+      "command": "node_modules/@babel"
     }
   }
 }
