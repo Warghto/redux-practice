@@ -1,4 +1,3 @@
-
 const initialState = { value: 0 };
 
 const reducer = (state = initialState, action) => {
@@ -21,6 +20,5 @@ const reducer = (state = initialState, action) => {
     default:
       return state;
   }
-
+};
 export default reducer;
-
